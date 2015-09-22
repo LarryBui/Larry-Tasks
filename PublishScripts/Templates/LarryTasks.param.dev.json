@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "LarryTasksV2"
+  },
+  "hostingPlanName": {
+    "value": "Default1"
+  },
+  "siteLocation": {
+    "value": "West US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "dd9fa9dc-5269-491b-af8e-77c06ef0f3f5"
+  },
+  "resourceGroup": {
+    "value": "Default-Web-WestUS"
+  }
+}
